@@ -8,6 +8,10 @@
 - 💬 How to reach me: vicen.lan2017@gmail.com
 - ⚡ I've already done a Full Stack JS course on [Digital House][pwfs]
 
+---
+
+<img align='center' alt='Certificade' widht='500px' height='200px' src='/images/diploma.jpg' >
+
 
 <br />
 
