@@ -13,10 +13,6 @@
 <img align='left' alt='Certificade' widht='500px' height='200px' src='/images/diploma.jpg' >
 
 
-<br />
-
----
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantinoVicentini&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
