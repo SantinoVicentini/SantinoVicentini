@@ -10,7 +10,7 @@
 
 ---
 
-<img align='center' alt='Certificade' widht='500px' height='200px' src='/images/diploma.jpg' >
+<img align='left' alt='Certificade' widht='500px' height='200px' src='/images/diploma.jpg' >
 
 
 <br />
