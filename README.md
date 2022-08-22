@@ -2,11 +2,11 @@
 
 
 
-## I'm from Argentina and i've 18 years old
+## I'm from Argentina and i've 19 years old
 - 🔭 I’m currently studying Tecnología Digital in [Universidad Torcuato Di Tella][Ditella]
 - 🌱 Languages: "Español/Castellano" "English"
 - 💬 How to reach me: vicen.lan2017@gmail.com
-- ⚡ I've already done a Full Stack JS course on [Digital House][pwfs]
+- ⚡ I've done a Full Stack JS course on [Digital House][pwfs]
 
 ---
 
