@@ -2,7 +2,7 @@
 
 
 
-## I'm from Argentina and i've 20 years old
+## I'm from Argentina and i've 21 years old
 - 🔭 I’m currently studying Tecnología Digital in [Universidad Torcuato Di Tella][Ditella]
 - 🌱 Languages: "Español/Castellano" "English"
 - 💬 How to reach me: vicen.lan2017@gmail.com
