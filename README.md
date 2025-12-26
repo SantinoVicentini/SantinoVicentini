@@ -3,7 +3,7 @@
 
 
 ## I'm from Argentina and i've 23 years old
-- 🔭 I’m currently studying Tecnología Digital in [Universidad Torcuato Di Tella][Ditella]
+- 🔭 BSc. In Digital Technology UTDT [Universidad Torcuato Di Tella][Ditella]
 - 🌱 Languages: "Español/Castellano" "English"
 - 💬 How to reach me: vicen.lan2017@gmail.com
 - ⚡ I've done a Full Stack JS course on [Digital House][pwfs]
