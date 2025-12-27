@@ -1,6 +1,6 @@
 # Hi, I'm Santino Vicentini 👋
 
-### Data Scientist | Machine Learning | Python  
+### Data Scientist | Machine Learning
 BSc. in Digital Technology – Universidad Torcuato Di Tella (UTDT)
 
 ---
@@ -31,12 +31,6 @@ I’m particularly interested in **ML applied to product, business optimization 
 ## 📊 Featured Projects
 🔹 **Predictive Modeling for Click-Through Rate (CTR)**  
 Built and optimized machine learning models using feature engineering and ensemble methods to predict user behavior.
-
-🔹 **Machine Learning Pipelines (End-to-End)**  
-From data cleaning and preprocessing to model evaluation and performance tuning.
-
-🔹 **Exploratory Data Analysis & Business Insights**  
-Data-driven insights to support decision-making processes.
 
 👉 More projects available in my repositories below.
 
